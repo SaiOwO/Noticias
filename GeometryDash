@@ -1,11 +1,12 @@
 {
-  "Cantidad" : {
-    "NoticiasTotales": 1
-  },
-  "Noticias" : { 
-    "noticia1" : {
-      "titulo": "Prueba 1",
-      "texto": "Hola soy sai y estas son las noticias de hoy xd"
-    }
-  }
-}
+ "Noticias" : { 
+      "noticia1": {
+            "titulo": "Prueba 1",
+            "texto": "Hola soy Sai xd"
+            },
+      "noticia2": {
+            "titulo": "Prueba 2",
+            "texto": "Hola denuevo :v"
+            }
+      }
+ }
