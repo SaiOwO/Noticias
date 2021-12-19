@@ -1,6 +1,48 @@
 {
+   "cantidades": {
+      "noticiasTotales": 1
+   },
    "noticia1": {
       "titulo": "Noticia de prueba",
-      "texto": "Hola soy Sai, tu reportero de confianza :v"
+      "texto": "Hola soy Sai, tu reportero de confianza xd",
+      "textura": "GJ_reportBtn_001.png",
+      "color": {
+         "titulo_r": 255,
+         "titulo_g": 255,
+         "titulo_b": 255,
+         "titulo_a": 255,
+         "texto_r": 255,
+         "texto_g": 255,
+         "texto_b": 255,
+         "texto_a": 255
+      },
+      "extra": {
+         "nombre": "SaiOwO",
+         "icono": 15,
+         "color1": 4,
+         "color2": 5,
+         "accountID": 71
+      },
+      "botones": {
+         "posicionX": 50,
+         "posX_negativo": true,
+         "posicionY": 100,
+         "posY_negativo": false,
+         "paddingX": 30,
+         "padX_negativo": false,
+         "paddingY": 0,
+         "padY_negativo": false,
+         "youtube": "https://www.youtube.com/",
+         "twitter": "https://www.twitter.com/",
+         "facebook": "https://www.facebook.com/",
+         "twitch": "https://www.twitch.tv/",
+         "custom": {
+            "textura": "GJ_newBtn_001.png",
+            "setScale": 1,
+            "link": "www.paypal.me/saiowo",
+            "sonido": "wea.ogg",
+            "musica": "menuLoop.mp3"
+         }
+      }
    }
 }
