@@ -1,10 +1,6 @@
 {
- "noticia1" : { 
-      "titulo": "Prueba 1",
-      "texto": "Hola soy Sai xd"
-      },
- "noticia2": {
-      "titulo": "Prueba 2",
-      "texto": "Hola denuevo :v"
-      }
- }
+   "noticia1": {
+      "titulo": "Noticia de prueba",
+      "texto": "Hola soy Sai, tu reportero de confianza :v"
+   }
+}
